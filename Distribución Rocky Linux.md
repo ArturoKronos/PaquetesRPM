@@ -6,7 +6,8 @@ Rocky Linux es una distribución de Linux de código abierto y gratuita, diseña
 
 ***
 
-![Uploading image.png…]()
+![RockyLinux](https://github.com/ArturoKronos/PaquetesRPM/assets/145538520/b94b23f5-0fdb-4180-82f6-7b2a577b5eb3)
+
 
 
 
