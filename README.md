@@ -9,7 +9,7 @@
 ***
 
 ## [1-¿Que son los paquetes rpm?](/introduccion.md)
-## [2-Distribución Rocky Linux](/)
+## [2-Distribución Rocky Linux](/Distribución Rocky Linux.md)
 ## [3-Repositorios](/)
 ## [4-Caso practico](/)
 
