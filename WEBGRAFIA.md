@@ -1,4 +1,5 @@
 # WEBGRAFÍA 
 
 **PAQUETES RPM**
-es.wikipedia.org
+
+https://es.wikipedia.org/wiki/RPM_Package_Manager
