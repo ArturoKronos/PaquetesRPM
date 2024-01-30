@@ -8,8 +8,8 @@
 # Indice
 ***
 
-## .[Introducción]
-## .[]
+## Introducción
+## 
 ##
 
 
