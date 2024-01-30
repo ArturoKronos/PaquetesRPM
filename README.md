@@ -15,6 +15,8 @@
 ***
 # Licencia
 
+(/![licencia](https://github.com/ArturoKronos/PaquetesRPM/assets/145538520/97040aa1-7104-4dff-9ada-95e843961aba)
+
 
 
 
