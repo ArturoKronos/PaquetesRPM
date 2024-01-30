@@ -42,7 +42,7 @@ Rocky Linux es una distribución de Linux de código abierto y gratuita, diseña
 
 
 # WEBGRAFÍA
-**https://www.muylinux.com/2023/08/31/rocky-linux-compatibilidad-rhel/**
+[Rocky Linux.com](/)
 
 
 
