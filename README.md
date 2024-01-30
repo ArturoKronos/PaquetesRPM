@@ -8,7 +8,7 @@
 # Indice
 ***
 
-## Introducción
+##
 ## 
 ##
 
