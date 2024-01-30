@@ -8,7 +8,7 @@
 # Indice
 ***
 
-## https://github.com/ArturoKronos/PaquetesRPM/blob/main/%C2%BFque-son-los-paquetesrpm%3F.md
+## 
 ## 
 ##
 
