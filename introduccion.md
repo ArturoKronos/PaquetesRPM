@@ -17,8 +17,7 @@ Un paquete RPM es un archivo que contiene software específico diseñado para in
 
 Los paquetes RPM se pueden encontrar en varios lugares en línea, incluyendo:
 
-# 1-Repositorios oficiales de la distribución de Linux: 
-Las distribuciones como Red Hat Enterprise Linux (RHEL), CentOS y Fedora tienen repositorios en línea donde se pueden encontrar una amplia variedad de paquetes RPM. Estos repositorios suelen ser la fuente principal y más confiable para obtener software.
+1-Repositorios oficiales de la distribución de Linux: Las distribuciones como Red Hat Enterprise Linux (RHEL), CentOS y Fedora tienen repositorios en línea donde se pueden encontrar una amplia variedad de paquetes RPM. Estos repositorios suelen ser la fuente principal y más confiable para obtener software.
 
 2-Sitios web de los desarrolladores de software: Muchos desarrolladores ofrecen versiones específicas de sus programas empaquetadas como RPM en sus sitios web para su descarga.
 
