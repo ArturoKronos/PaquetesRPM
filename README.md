@@ -8,7 +8,7 @@
 # INDICE
 ***
 
-## [ ¿Que son los paquetes rpm? ](/)
+## [ ¿Que son los paquetes rpm? ](/introduccion.md)
 ## 
 ##
 
