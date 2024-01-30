@@ -1,7 +1,8 @@
 # Paquetes rpm
 
 ***
-![Logo].(/https://i0.wp.com/architecnologia.es/wp-content/uploads/2019/08/linux-paquetes.jpg?fit=830%2C460&ssl=1)
+![RPM](https://github.com/ArturoKronos/PaquetesRPM/assets/145538520/eb0a7daa-8730-45a0-b257-3fabf12ce3e6)
+
 
 
 # Indice
