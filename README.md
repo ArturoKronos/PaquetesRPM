@@ -8,16 +8,16 @@
 # INDICE
 ***
 
-## [1-¿Que son los paquetes rpm? ](/introduccion.md)
-## 
-##
+## [1-¿Que son los paquetes rpm?](/introduccion.md)
+## [2-Distribución Rocky Linux](/)
+## [3-Repositorios](/)
+## [4-Caso practico](/)
+
 
 
 ***
 # LICENCIA
 
 ![licencia](https://github.com/ArturoKronos/PaquetesRPM/assets/145538520/97040aa1-7104-4dff-9ada-95e843961aba)
-
-
 
 
