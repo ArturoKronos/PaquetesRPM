@@ -28,6 +28,16 @@ Migración desde CentOS: Dado que Rocky Linux se basa en el mismo código fuente
 
 # Ventajas de usar Rocky Linux
 
+Compatibilidad con RHEL: Ofrece una compatibilidad binaria con Red Hat, lo que significa que las aplicaciones desarrolladas y probadas en RHEL pueden ejecutarse sin problemas en Rocky Linux.
+
+Estabilidad y confiabilidad: Está diseñado para ser un sistema operativo estable y confiable, lo que lo hace adecuado para entornos empresariales que requieren una plataforma sólida y consistente.
+
+Comunidad activa: Cuenta con una comunidad activa de desarrolladores y usuarios que proporcionan soporte, documentación y contribuciones al proyecto.
+
+Seguridad: Al ser una distribución basada en RHEL, se beneficia de las actualizaciones de seguridad regulares y del soporte a largo plazo proporcionado por la comunidad y los proveedores de software.
+
+Libre y de código abierto: Al igual que otras distribuciones de Linux, Rocky Linux es gratuito y de código abierto, lo que significa que cualquiera puede utilizarlo, modificarlo y distribuirlo libremente.
+
 
 
 
