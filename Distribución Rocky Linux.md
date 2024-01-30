@@ -38,6 +38,12 @@ Rocky Linux es una distribución de Linux de código abierto y gratuita, diseña
 
 **Libre y de código abierto:** Al igual que otras distribuciones de Linux, Rocky Linux es gratuito y de código abierto, lo que significa que cualquiera puede utilizarlo, modificarlo y distribuirlo libremente.
 
+***
+
+
+# WEBGRAFÍA
+**https://www.muylinux.com/2023/08/31/rocky-linux-compatibilidad-rhel/**
+
 
 
 
