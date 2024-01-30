@@ -1,4 +1,4 @@
-# Paquetes rpm
+# Paquetes RPM
 
 ***
 ![RPM](https://github.com/ArturoKronos/PaquetesRPM/assets/145538520/eb0a7daa-8730-45a0-b257-3fabf12ce3e6)
